@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ItemSniperApp.Cli", "ItemSniperApp.Cli\ItemSniperApp.Cli.csproj", "{D7E4A130-36F2-40AA-9C0E-2FF30FC9C9B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7E4A130-36F2-40AA-9C0E-2FF30FC9C9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E4A130-36F2-40AA-9C0E-2FF30FC9C9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E4A130-36F2-40AA-9C0E-2FF30FC9C9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E4A130-36F2-40AA-9C0E-2FF30FC9C9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
